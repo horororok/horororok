@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kim Tae Hun
 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA in SSAFY
 
 -  Thannks.
 
