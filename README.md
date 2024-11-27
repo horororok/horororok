@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me
 - Email: kth32105@naver.com
-- Blog: 
+- Blog: https://horororok.github.io/blog/
 
 ---
 ⭐️ From [horororok](https://github.com/horororok)
