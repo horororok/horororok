@@ -2,10 +2,11 @@
 
 ## 🛠 Skills
 - 프로그래밍 언어: JS, TS, JAVA
-- 프레임워크: React, Vue.js, Spring
+- 프레임워크: React, Vue.js, Spring, Next.js
 
 ## 🔭 Career & Activity
-- CodeIt Sprint: FE 11th (Aug.2024 ~ )
+- BTheegg (Mar.2025 ~ )
+- CodeIt Sprint: FE 11th (Aug.2024 ~ Feb.2025)
 - SSAFY (Samsung Software Academy for Youth) 10th (Jul.2023 ~ June.2024)
 
 ## 🌱 I'm currently learning
